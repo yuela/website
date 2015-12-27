@@ -1,0 +1,26 @@
+body{
+    background-color:#eeeeee;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: medium;
+    padding:0px;
+    margin:0px;
+}
+header{
+
+}
+header h1{
+    margin-left:10%;
+}
+aside{
+    background-color: antiquewhite;
+
+}
+aside img{
+
+}
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+
+}
+@media screen and (max-device-width: 480px) and (orientation: landscape){
+
+}
